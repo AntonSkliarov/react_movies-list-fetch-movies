@@ -3,10 +3,11 @@
 You can use this [DEMO LINK](https://antonskliarov.github.io/react_movies-list-fetch-movies/) to browse the movie list and add your favorite movie to it.
 
 ## Tech stack
-HTML5
-Bulma, SCSS
-JavaScript
-React (v.17.0.1)
+
+1. HTML5
+1. Bulma, SCSS
+1. JavaScript
+1. React (v.17.0.1)
 
 ## Description
 
