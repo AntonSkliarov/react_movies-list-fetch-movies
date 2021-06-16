@@ -2,6 +2,12 @@
 
 You can use this [DEMO LINK](https://antonskliarov.github.io/react_movies-list-fetch-movies/) to browse the movie list and add your favorite movie to it.
 
+## Tech stack
+HTML5
+Bulma, SCSS
+JavaScript
+React (v.17.0.1)
+
 ## Description
 
 1. When a user enters a movie title and clicks the search button, a request is sent to [OMDb API](http://www.omdbapi.com/).
